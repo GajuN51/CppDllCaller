@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\CppDllCaller\CppDllCaller\bin\Debug\net8.0\CppDllCaller.exe
+C:\Users\user\source\repos\CppDllCaller\CppDllCaller\bin\Debug\net8.0\CppDllCaller.deps.json
+C:\Users\user\source\repos\CppDllCaller\CppDllCaller\bin\Debug\net8.0\CppDllCaller.runtimeconfig.json
+C:\Users\user\source\repos\CppDllCaller\CppDllCaller\bin\Debug\net8.0\CppDllCaller.dll
+C:\Users\user\source\repos\CppDllCaller\CppDllCaller\bin\Debug\net8.0\CppDllCaller.pdb
+C:\Users\user\source\repos\CppDllCaller\CppDllCaller\obj\Debug\net8.0\CppDllCaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CppDllCaller\CppDllCaller\obj\Debug\net8.0\CppDllCaller.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CppDllCaller\CppDllCaller\obj\Debug\net8.0\CppDllCaller.AssemblyInfo.cs
+C:\Users\user\source\repos\CppDllCaller\CppDllCaller\obj\Debug\net8.0\CppDllCaller.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CppDllCaller\CppDllCaller\obj\Debug\net8.0\CppDllCaller.dll
+C:\Users\user\source\repos\CppDllCaller\CppDllCaller\obj\Debug\net8.0\refint\CppDllCaller.dll
+C:\Users\user\source\repos\CppDllCaller\CppDllCaller\obj\Debug\net8.0\CppDllCaller.pdb
+C:\Users\user\source\repos\CppDllCaller\CppDllCaller\obj\Debug\net8.0\CppDllCaller.genruntimeconfig.cache
+C:\Users\user\source\repos\CppDllCaller\CppDllCaller\obj\Debug\net8.0\ref\CppDllCaller.dll

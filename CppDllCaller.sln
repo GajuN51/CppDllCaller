@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35906.104 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CppDllCaller", "CppDllCaller\CppDllCaller.csproj", "{844C1564-FCFF-4341-806F-B94EC8E350B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844C1564-FCFF-4341-806F-B94EC8E350B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844C1564-FCFF-4341-806F-B94EC8E350B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844C1564-FCFF-4341-806F-B94EC8E350B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844C1564-FCFF-4341-806F-B94EC8E350B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCBA7461-9A99-4EE8-A241-3B0015613DA8}
+	EndGlobalSection
+EndGlobal
